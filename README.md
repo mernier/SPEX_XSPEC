@@ -1,6 +1,6 @@
 Discrepancies between the AtomDB (v3.0.9) and SPEXACT (v3.0.5) CIE plasma models
-  (As supplementary material of Mernier, F., Werner, N., Lakhchaura, K. et al., 2019, Astron. Nachr.)
 -----
+(As supplementary material of Mernier, F., Werner, N., Lakhchaura, K. et al., 2019, Astron. Nachr.)
 
 
 Using the XMM-Newton EPIC (either MOS1 or pn) responses, single-temperature models were simulated with 'cie' (SPEX) over a grid of input temperatures and abundances, then refitted with 'vapec' (XSPEC).
